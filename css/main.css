@@ -1,0 +1,270 @@
+li{
+    padding-right: 20px !important;
+    margin-right: 20px !important;
+
+  }
+
+  nav{
+    background-color: #A2484F;
+
+  }
+
+  h1,h2,h3,h4,p,a {
+    font-family: 'Lato', sans-serif !important;
+    font-weight: 400 !important;
+}
+a {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    border-radius: 20px !important;
+}
+
+.slikeKontejner {
+    display: flex; 
+    align-items: center; 
+    justify-content: space-evenly;
+     
+}
+
+body {
+  	background-color: #ffffff;
+  	font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #555;
+
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+#searchBar{
+    width: 100%;
+    height: 32px;
+    border-radius: 3px;
+    border: 1px solid wheat;
+    padding: 50px 10 px;
+    font-size: 12px;
+}
+#search{
+    position: relative;
+}
+
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+    font-size: 16px;
+}
+
+.centered {
+    text-align: center;
+}
+
+a {
+    color: #62bef0;
+    word-wrap: break-word;
+
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+a:hover,
+a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:before,
+a:after {
+    -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -moz-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -ms-transition: color 0.1s ease-in, background 0.1s ease-in;
+    -o-transition: color 0.1s ease-in, background 0.1s ease-in;
+    transition: color 0.1s ease-in, background 0.1s ease-in;
+}
+
+ hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+
+.navbar {
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+
+.navbar-inverse {
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.navbar-inverse {
+	background-color: #62bef0;
+	border-color: #c7ca23;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;
+}
+
+/* .navbar-inverse .navbar-nav > li > a:hover {
+	color: #222222;
+} */
+
+.navbar-brand {
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 2px;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-toggle {
+	border-color: transparent;
+}
+
+.progress-bar-theme {
+  background-color: #c9aa20;
+}
+
+
+
+.mt {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.pt {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+#ww {
+	padding-top: 50px;
+	padding-bottom: 102px;
+    
+}
+
+
+#grey {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #f2f2f2;
+}
+
+
+#white {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #ffffff;
+}
+
+
+
+bd {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #d2d2d2;
+	font-weight: 700;
+}
+
+ba {
+	font-size: 12px;
+	text-transform: uppercase;
+}
+
+/* Blog Quote */
+.bq {
+	font-size: 22px;
+	padding-top: 30px;
+}
+
+/* Blog Tags */
+bt {
+	font-size: 12px;
+}
+
+.glyphicon {
+	font-size: 40px;
+	color: #1abc9c;
+}
+
+img{
+	width: 500px;
+}
+
+li {
+    display:inline;
+    padding: 10px 5px;
+}
+
+.cssLogin{
+    background-image: url("https://www.supermarketperimeter.com/ext/resources/2021/12/14/donuts.jpg?height=667&t=1639493446&width=1080") !important;
+}
+
+.prijava-form {
+    margin-top: 0px;
+    width: 80%;
+    padding: 10%;
+    background-color: white;
+    font-weight: 700;
+    color: #fff;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+div.modal-content, div.container.sir-form {
+    background-color: white;
+    background-size: 100% 1%;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    padding-bottom: -200px;
+    margin-bottom: -200px;
+}
+
+
+.row{
+    height: 70px;
+}  
+
+.col-md-4{
+    margin-top: 18px;
+} 
+
+#pregled{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(216, 216, 21, 0.5);
+}
+
+
+.thead{
+    font-size: 20px;
+    text-align: center;
+}
+
+.imgNav {
+   vertical-align: text-top !important;
+   width: 170px !important;
+
+}
+
+
+
+
+
+
+
+
